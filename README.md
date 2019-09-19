@@ -5,8 +5,6 @@ FilmAction will handle all data update, fetchFilmData in filmAction is used to m
 Used to make the API call in componnentDidMount in NetFlix Class, now update NetFlix to functionional Component and use
 useEffect instead of componentDidMount.<br/>
 
-Update styles to make MyList and Recommendations right under NetFlix Logo, it was required to display two list right bottom of  page. Now updated the styles.<br/>
-
 Update button styles to visibility so it won't impact the layout.<br/>
 
 Integrated with SASS, css-module, 
@@ -16,7 +14,8 @@ Clone this and run npm install then npm start, you can see the list.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, please run ### `npm install` first to get all dependencies, <br/>
+you can run:
 
 ### `npm start`
 
